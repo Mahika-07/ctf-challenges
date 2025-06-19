@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://websolutions.com/sitemap.xml
+#Too blind to recognise the flag?
+# Crawl-delay
+Crawl-delay: 1
+#bGF5ZXI4e0YhbmFMTHlfZ290X1RIZV9GTGFHfQ==
+# Disallow specific paths (if any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow specific important pages
+Allow: /index.html
+Allow: /portfolio.html
+Allow: /services.html
+Allow: /contact.html
+Allow: /about.html
+Allow: /blog.html
+
+# CSS and JS files
+Allow: /css/
+Allow: /js/
+
+# Images and assets
+Allow: /images/
+Allow: /assets/
+
+
